@@ -1,25 +1,25 @@
 # Pollution-Control-Board-PHP-MySQL
 
 **Home**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-dashboard.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-dashboard.JPG)
 
 **About**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-about.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-about.JPG)
 
 **user login**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-userlogin.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-userlogin.JPG)
 
 **company login**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-companylogin.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-companylogin.JPG)
 
 **company home**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-companyhome.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-companyhome.JPG)
 
 **Admin home**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-adminhome.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-adminhome.JPG)
 
 **Contact form**
-![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-contactform.jpg)
+![User Home](https://github.com/Tamilarasu21/Pollution-Control-Board-Management-System/blob/master/Screenshots/pcb-contactform.JPG)
 
 ### Passwords
 
